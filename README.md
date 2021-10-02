@@ -4,7 +4,7 @@
 
 <div>
 <ul>
-  <li>🔭 I’m Java developer and currently working on Kroton Educacional</li>
+  <li>🔭 I’m Java developer and currently working at Kroton Educacional</li>
   <li>🌱 Currently I'm learning JavaScript stack - ReactJS, NodeJs and React Native</li>
   <li>💬 Ask me about movies, series, games and animes</li>
 </ul>
